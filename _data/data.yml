@@ -1,0 +1,133 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Xavier GOULEY
+    tagline: Senior Technical expert – Web – NodeJS / fullstack / PHP –
+    avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: xavier.gouley+cv@gmail.com
+    phone:
+    website: asterism.tk #do not add http://
+    linkedin: xaviergouley
+    github: gxapplications
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow:
+    codewars:
+    goodreads:
+
+    languages:
+      - idiom: French
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Photography
+        link: https://photos.app.goo.gl/7YC6pucGGsd8ZYnZ7
+
+      - item: Photography
+        link: https://photos.app.goo.gl/Q3ch1SSz6QyUT2Xm9
+
+      - item: Side project in Domotics
+        link: https://asterism.tk
+
+      - item: Handyman
+        link:
+
+      - item: Astronomy, Space conquest
+        link:
+
+      - item: Nature, Technology
+        link:
+
+career-profile:
+    title: Web software Senior Engineer
+    summary: |
+      Man, 38 y/o, 15 years of experience, married, with children.
+
+      Location: Marne-la-vallée, Work @ Paris 9e & Remote working.
+
+      Actually working @ PrestaShop as senior developer & junior architect.
+
+      Seeking a Senior position in Web/software engineering, from 76k€ to 90k€.
+
+education:
+    - degree: IT Engineer degree, computer science
+      university: Telecom Nancy (ESIAL)
+      time: 2002 - 2005
+
+    - degree: Preparatory classes for schools
+      university: Maths Sup & Spé PTSI
+      time: 2000 - 2002
+
+    - degree: Scientific secondary school diploma
+      university: French Bac S
+      time: 2000
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - name: Javascript & jQuery
+      level: 98%
+
+    - name: Angular
+      level: 98%
+
+    - name: HTML5 & CSS
+      level: 95%
+
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit.
+          - Bullet point
+          - Bullet point
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
