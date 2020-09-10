@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<img style="float: left;" src="https://raw.githubusercontent.com/gxapplications/gxapplications/ccd12006c7f13bafe643aa0aa1826151c0338510/assets/images/qr-cv.svg" />
-Hey !
-
+<table>
+<tr><td>
+  <img style="float:left;position:absolute;" src="https://raw.githubusercontent.com/gxapplications/gxapplications/master/assets/images/qr-cv.png" />
+</td><td>
+Test **ee**
+</td></tr>
+</table>
 
 
 **gxapplications/gxapplications** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
