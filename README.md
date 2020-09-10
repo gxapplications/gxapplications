@@ -1,13 +1,12 @@
 
 <table>
-<tr><td style="border:none;">
+<tr><td border="0">
   <a href="http://asterism.tk/gxapplications/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gxapplications/gxapplications/master/assets/images/qr-cv.png" />
+    <img height="220" width="220" src="https://raw.githubusercontent.com/gxapplications/gxapplications/master/assets/images/qr-cv.png" />
   </a>
-</td><td style="border:none;">
+</td><td border="0">
   
-  Test **ee**
-  ### ⚡ Hi there 👋
+  # ⚡ Hi there 👋
   
 </td></tr>
 </table>
