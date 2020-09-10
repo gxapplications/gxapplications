@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![CV](https://raw.githubusercontent.com/gxapplications/gxapplications/ccd12006c7f13bafe643aa0aa1826151c0338510/assets/images/qr-cv.svg)
+
 <!--
 **gxapplications/gxapplications** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
