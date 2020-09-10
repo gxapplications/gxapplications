@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![CV](https://raw.githubusercontent.com/gxapplications/gxapplications/ccd12006c7f13bafe643aa0aa1826151c0338510/assets/images/qr-cv.svg)
+<img style="float: left;" src="https://raw.githubusercontent.com/gxapplications/gxapplications/ccd12006c7f13bafe643aa0aa1826151c0338510/assets/images/qr-cv.svg" />
+Hey !
 
-<!--
+
+
 **gxapplications/gxapplications** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
