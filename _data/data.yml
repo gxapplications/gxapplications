@@ -78,19 +78,27 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Javascript & jQuery
+    - name: JS / ECMAScript / NodeJS
       level: 98%
-
-    - name: Angular
-      level: 98%
-
+    - name: VueJS
+      level: 94%
+    - name: NestJS
+      level: 90%
     - name: HTML5 & CSS
-      level: 95%
+      level: 85%
+    - name: PHP & Symfony 1&2
+      level: 75%
+    - name: NoSQL / SQL
+      level: 65%
+    - name: Event sourcing & CQRS
+      level: 50%
+    - name: Google Cloud Platform
+      level: 20%
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior software developer & Web architect
+      time: 2014 - Present
+      company: PrestaShop SA, Paris
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit.
@@ -113,7 +121,7 @@ projects:
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
 publications:
-    title: Publications
+    title: Side projects
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
