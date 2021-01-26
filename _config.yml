@@ -2,8 +2,8 @@
 
 # Site Settings
 title: Xavier GOULEY
-url: 'http://asterism.icu'
-baseurl: '/cv' #change it according to your repository name
+url: 'http://cv.asterism.icu'
+baseurl: '/gxapplications' #change it according to your repository name
 description: Xavier GOULEY resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: turquoise # blue turquoise green berry orange ceramic
