@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: xavier.gouley+cv@gmail.com
     phone:
-    website: asterism.tk #do not add http://
+    website: asterism.icu #do not add http://
     linkedin: xaviergouley
     github: gxapplications
     gitlab:
@@ -39,7 +39,7 @@ sidebar:
         link: https://photos.app.goo.gl/Q3ch1SSz6QyUT2Xm9
 
       - item: Side project in Domotics
-        link: https://asterism.tk
+        link: https://asterism.icu
 
       - item: Handyman
         link:
@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: Web software Senior Engineer
     summary: |
-      Man, 38 y/o, 15 years of experience, married, with children.
+      Man, 39 y/o, 16 years of experience, married, with children.
 
       Location: Marne-la-vallée, Work @ Paris 9e & Remote working.
 
@@ -86,9 +86,9 @@ skills:
       level: 90%
     - name: HTML5 & CSS
       level: 85%
-    - name: PHP & Symfony 1&2
-      level: 75%
     - name: NoSQL / SQL
+      level: 75%
+    - name: PHP & Symfony 1&2
       level: 65%
     - name: Event sourcing & CQRS
       level: 50%
