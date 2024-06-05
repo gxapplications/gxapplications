@@ -145,23 +145,23 @@ projects:
     assignments:
       - title: Rominet
         link: "#"
-        tagline: "'Domotics as code' principle: using Z-Wave JS software as backend to manage a Z-Wave network, I build a server & interface with minimal code amount, fitting only my needs. Customizable by code."
+        tagline: "'Domotics as code' principle: using Z-Wave JS software as backend to manage a Z-Wave network, I build a server & interface with minimal code amount, fitting only my needs. Customizable by code. Running on a Raspberry Pi."
       - title: Scenarii
         link: "#"
         tagline: "A library that exposes abstract and concrete classes and tools to build a domotic system with scenarios, actions, conditions and triggers. Used by Rominet project."
       - title: Asterism
         link: "#"
-        tagline: "A first version of server & interface to manage a house, similar to HomeAssistant, customizable by interfaces. Running on a Raspberry Pi, compatible with Z-Wave networks, 433MHz connected objects compatible."
+        tagline: "A first version of server & interface to manage a house, similar to HomeAssistant, customizable by interfaces. Running on a Raspberry Pi, compatible with Z-Wave networks, 433MHz connected objects compatible, teleinfo protocole (from Enedis circuit breakers)."
 
 publications:
     title: Other projects
     intro: |
       TODO
     papers:
-      - title: The Art of Computer Programming
+      - title: TODO
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: TODO
+        conference: TODO
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
