@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Xavier GOULEY
-    tagline: Senior Technical expert – Web – NodeJS / fullstack / PHP –
+    tagline: Senior Technical engineer – Web – TypeScript / fullstack / AWS infra –
     avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: xavier.gouley+cv@gmail.com
     phone:
-    website: rominet.monster #do not add http://
+    website: cv.rominet.monster #do not add http://
     linkedin: xaviergouley
     github: gxapplications
     gitlab:
@@ -38,8 +38,8 @@ sidebar:
       - item: Photography
         link: https://photos.app.goo.gl/Q3ch1SSz6QyUT2Xm9
 
-      - item: Side project in Domotics
-        link: https://rominet.monster
+      - item: Side projects in Domotics
+        link:
 
       - item: Handyman
         link:
@@ -53,13 +53,13 @@ sidebar:
 career-profile:
     title: Web software Senior Engineer
     summary: |
-      Man, 39 y/o, 16 years of experience, married, with children.
+      Man, 42 y/o, 19 years of experience, married, with children.
 
-      Location: Marne-la-vallée, Work @ Paris 9e & Remote working.
+      Location: Marne-la-vallée, Remote working mainly.
 
-      Actually working @ PrestaShop as senior developer & junior architect.
+      Actually working @ PayFit as senior engineer & architect.
 
-      Seeking a Senior position in Web/software engineering, from 76k€ to 90k€.
+      Seeking a Senior position in Web|Software engineering / Engineering Manager, from 79k€ to 95k€.
 
 education:
     - degree: IT Engineer degree, computer science
@@ -78,32 +78,51 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: JS / ECMAScript / NodeJS
-      level: 98%
+    - name: Typescript / NodeJS
+      level: 99%
     - name: VueJS
-      level: 94%
+      level: 96%
     - name: NestJS
-      level: 90%
+      level: 92%
     - name: HTML5 & CSS
-      level: 85%
-    - name: NoSQL / SQL
-      level: 75%
-    - name: PHP & Symfony 1&2
-      level: 65%
+      level: 88%
     - name: Event sourcing & CQRS
-      level: 50%
-    - name: Google Cloud Platform
-      level: 20%
+      level: 80%
+    - name: AWS Infrastructure
+      level: 72%
+    - name: GCP Infrastructure
+      level: 55%
+    - name: ReactJS
+      level: 39%
+    - name: PHP
+      level: 25%
 
 experiences:
+    - role: Senior software developer & Infrastructure architect
+      time: 2023 - Present
+      company: PayFit, Paris
+      details: |
+        Event driven platform: Internal projects to deliver platform tooling for engineering
+        about Event Sourcing, CQRS patterns, Serverless infrastructures, Deployment. 
+          - TODO
     - role: Senior software developer & Web architect
-      time: 2014 - Present
+      time: 2022 - 2023
+      company: PayFit, Paris
+      details: |
+        Jetlang API: Infrastructure and application allowing
+          - easy setup of event consuming to serverless workflows
+          - API generators and auto documentation
+          - Specification, implementation, users formation and support
+          - Working in 4-5 engineers squad
+    - role: Senior software developer & Web architect & Squad manager
+      time: 2014 - 2022
       company: PrestaShop SA, Paris
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
-          - Bullet point
-          - Bullet point
+        Team leader / Squad manager / Software engineer in SAAS project
+          - TODO
+          - Google market
+          - Facebook marketplace
+          - Paypal payment platform interface
 
 projects:
     title: Projects
@@ -138,4 +157,4 @@ publications:
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
