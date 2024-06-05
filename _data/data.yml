@@ -59,7 +59,7 @@ career-profile:
 
       Actually working @ PayFit as senior engineer & architect.
 
-      Seeking a Senior position in Web|Software engineering / Engineering Manager, from 79k€ to 95k€.
+      Seeking a Senior position in Web software engineering / Engineering Manager, from 79k€ to 95k€.
 
 education:
     - degree: IT Engineer degree, computer science
@@ -96,6 +96,20 @@ skills:
       level: 39%
     - name: PHP
       level: 25%
+    - name: Agile methodologies
+      level: 99%
+    - name: Scrum master
+      level: 96%
+    - name: Tech & User trainer
+      level: 92%
+    - name: Pair programmer
+      level: 88%
+    - name: Squad manager
+      level: 80%
+    - name: Jira / Github Projects
+      level: 72%
+    - name: Notion / Astro documenter
+      level: 55%
 
 experiences:
     - role: Senior software developer & Infrastructure architect
