@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Xavier GOULEY
-url: 'http://cv.asterism.icu'
+url: 'http://cv.rominet.monster'
 baseurl: '/' #change it according to your repository name
 description: Xavier GOULEY resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
