@@ -125,36 +125,29 @@ experiences:
           - Paypal payment platform interface
 
 projects:
-    title: Projects
+    title: Side projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Interested in Domotics, as a DIY handyman, I develop my own softs to pilot my house and to lower my energy consumtion.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Rominet
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "'Domotics as code' principle: using Z-Wave JS software as backend to manage a Z-Wave network, I build a server & interface with minimal code amount, fitting only my needs. Customizable by code."
+      - title: Scenarii
+        link: "#"
+        tagline: "A library that exposes abstract and concrete classes and tools to build a domotic system with scenarios, actions, conditions and triggers. Used by Rominet project."
+      - title: Asterism
+        link: "#"
+        tagline: "A first version of server & interface to manage a house, similar to HomeAssistant, customizable by interfaces. Running on a Raspberry Pi, compatible with Z-Wave networks, 433MHz connected objects compatible."
 
 publications:
-    title: Side projects
+    title: Other projects
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      TODO
     papers:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
