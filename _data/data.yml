@@ -132,16 +132,24 @@ experiences:
       time: 2014 - 2022
       company: PrestaShop SA, Paris
       details: |
-        Team leader / Squad manager / Software engineer in SAAS project
-          - TODO
-          - Google market
-          - Facebook marketplace
-          - Paypal payment platform interface
+        Team leader / Squad manager / Software engineer in SAAS project (2018 - 2022)
+          - Build new PrestaShop plugins to make it SAAS oriented. NestJS, TypeScript, high traffic and security challenges
+            - Google market plugin
+            - Facebook marketplace plugin
+            - Paypal payment platform interface plugin
+          - As Team leader, manage up to 8 juniors and senior developers, with Agile methodologies.
+          - As Scrum master, manage up to 3 projects in parallel, plannings and dealing with features with a triforce.
+          - As Senior developer, ensure development of a part of the software, teach juniors and help developers to build features.
+        Software engineer in internal labs projects (2014 - 2018)
+          - Internal research and development to build the future of E-commerce.
+          - Building a side tool next to PrestaShop, in SAAS architecture, with new technologies (TypeScript).
+          - Demonstrating SAAS features to mangement, proposing new solutions to make a simple E-commerce application.
+          - Learning with a team to grow up company skills in SASS architecture and other languages than PHP.
 
 projects:
     title: Side projects
     intro: >
-      Interested in Domotics, as a DIY handyman, I develop my own softs to pilot my house and to lower my energy consumtion.
+      Interested in Domotics, as a DIY handyman, I develop my own softs to pilot my house and to lower my energy consumption.
     assignments:
       - title: Rominet
         link: "#"
@@ -150,7 +158,7 @@ projects:
         link: "#"
         tagline: "A library that exposes abstract and concrete classes and tools to build a domotic system with scenarios, actions, conditions and triggers. Used by Rominet project."
       - title: Asterism
-        link: "#"
+        link: "https://github.com/gxapplications/asterism-for-domotics"
         tagline: "A first version of server & interface to manage a house, similar to HomeAssistant, customizable by interfaces. Running on a Raspberry Pi, compatible with Z-Wave networks, 433MHz connected objects compatible, teleinfo protocole (from Enedis circuit breakers)."
 
 publications:
