@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Xavier GOULEY
-    tagline: Senior Technical engineer – Web – TypeScript / fullstack / AWS infra –
+    tagline: Senior Technical engineer – Web – TypeScript / fullstack / AWS infra
     avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -140,6 +140,7 @@ experiences:
           - As Team leader, manage up to 8 juniors and senior developers, with Agile methodologies.
           - As Scrum master, manage up to 3 projects in parallel, plannings and dealing with features with a triforce.
           - As Senior developer, ensure development of a part of the software, teach juniors and help developers to build features.
+        
         Software engineer in internal labs projects (2014 - 2018)
           - Internal research and development to build the future of E-commerce.
           - Building a side tool next to PrestaShop, in SAAS architecture, with new technologies (TypeScript).
