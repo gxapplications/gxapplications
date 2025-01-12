@@ -62,7 +62,7 @@ career-profile:
 
       Actually working @ PayFit as senior engineer & architect.
 
-      Seeking a Senior position in Web software engineering / Engineering Manager, from 80k€ to 95k€.
+      Seeking a Senior position in Web software engineering / Engineering Manager, from 80k€ to 95k€, at least 80% Work From Home.
 
 education:
     - degree: IT Engineer degree, computer science
@@ -156,6 +156,18 @@ experiences:
           - Learning with a team to grow up company skills in SAAS architecture and other languages than PHP.
           - Help project transformation (target changed by Company) to bring the team into new features.
 
+experiences:
+    - role: Senior software developer & Infrastructure architect
+      time: 2023 - Present
+      company: PayFit, Paris
+      details: |
+        Event driven platform: Internal projects to deliver platform tooling for engineering
+        about Event Sourcing, CQRS patterns, Serverless infrastructures, Deployment. 
+          - Conception and realization of event sourcing layers, workflow tooling (AWS Step Functions)
+          - High scalability infrastructure (serverless, using SNS / SQS / EventBridge / Dynamo streams)
+          - Tooling for automated deployment of infrastructures on AWS (using CDK / SAM / Terraform)
+          - Performances and costs optimizations, monitoring (using Datadog)
+          
 projects:
     title: Side projects
     intro: >
@@ -182,4 +194,4 @@ publications:
         conference: TODO
 
 footer: >
-    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    (c) 2025
