@@ -27,30 +27,19 @@ sidebar:
     languages:
       - idiom: French
         level: Native
-
       - idiom: English
         level: Professional
 
     interests:
       - item: Photography
         link: https://photos.app.goo.gl/7YC6pucGGsd8ZYnZ7
-
-      - item: Photography
-        link: https://photos.app.goo.gl/Q3ch1SSz6QyUT2Xm9
-
       - item: Side projects in Domotics
         link:
-
       - item: Handyman
         link:
-
       - item: Astronomy, Space conquest
         link:
-
-      - item: Nature, Animals
-        link:
-        
-      - item: Technology
+      - item: Nature, Animals, Technology
         link:
 
 career-profile:
@@ -83,38 +72,33 @@ skills:
   toolset:
     - name: Typescript / NodeJS / JS
       level: 99%
-    - name: VueJS
-      level: 96%
     - name: NestJS
-      level: 92%
+      level: 96%
+    - name: VueJS & React
+      level: 90%
     - name: HTML5 & CSS
-      level: 88%
+      level: 82%
     - name: Event sourcing & CQRS
-      level: 80%
-    - name: AWS Infrastructure
       level: 72%
-    - name: ReactJS
-      level: 50%
+    - name: AWS Infrastructure
+      level: 62%
     - name: GCP Infrastructure
       level: 38%
     - name: PHP
       level: 25%
-    - name: Agile methodologies
+    - name: Agile methodologies & Scrum master
       level: 99%
-    - name: Scrum master
-      level: 96%
-    - name: Tech & User trainer
-      level: 92%
     - name: Pair programmer
+      level: 92%
+    - name: Tech & User trainer
       level: 88%
     - name: Squad manager
-      level: 80%
+      level: 78%
     - name: Test development driven
-      level: 75%
+      level: 65%
     - name: Jira / Github Projects
-      level: 70%
-    - name: Documenter
       level: 50%
+
 
 experiences:
     - role: Senior software developer & Infrastructure architect
@@ -186,14 +170,9 @@ projects:
         tagline: "A first version of server & interface to manage a house, similar to HomeAssistant, customizable by interfaces. Running on a Raspberry Pi, compatible with Z-Wave networks, 433MHz connected objects compatible, teleinfo protocole (from Enedis circuit breakers)."
 
 publications:
-    title: Other projects
+    title: Want to know more?
     intro: |
-      TODO
-    papers:
-      - title: TODO
-        link: "#"
-        authors: TODO
-        conference: TODO
+      Join me by e-mail
 
 footer: >
     (c) 2025
