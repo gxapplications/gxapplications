@@ -145,7 +145,7 @@ experiences:
             - Google market plugin
             - Facebook marketplace plugin
             - Paypal payment platform interface plugin
-          - As Team leader, manage up to 8 juniors and senior developers, with Agile methodologies.
+          - As Team leader, manage up to 8 seniors and juniors developers, with Agile methodologies.
           - As Scrum master, manage up to 3 projects in parallel, plannings and dealing with features with a triforce.
           - As Senior developer, ensure development of a part of the software, teach juniors and help developers to build features.
         
@@ -155,19 +155,21 @@ experiences:
           - Demonstrating SAAS features to mangement, proposing new solutions to make a simple E-commerce application.
           - Learning with a team to grow up company skills in SAAS architecture and other languages than PHP.
           - Help project transformation (target changed by Company) to bring the team into new features.
-
-experiences:
-    - role: Senior software developer & Infrastructure architect
-      time: 2023 - Present
-      company: PayFit, Paris
+    - role: Confirmed software developer & Squad manager - multiple missions
+      time: 2008 - 2014
+      company: Logica / CGI / IT services company
       details: |
-        Event driven platform: Internal projects to deliver platform tooling for engineering
-        about Event Sourcing, CQRS patterns, Serverless infrastructures, Deployment. 
-          - Conception and realization of event sourcing layers, workflow tooling (AWS Step Functions)
-          - High scalability infrastructure (serverless, using SNS / SQS / EventBridge / Dynamo streams)
-          - Tooling for automated deployment of infrastructures on AWS (using CDK / SAM / Terraform)
-          - Performances and costs optimizations, monitoring (using Datadog)
-          
+        Developer (Agile and legacy methodologies) in PHP & eZ Publish CMS, various missions in many professional domains:
+          - Telecoms portals (Orange 118 712, Virgin),
+          - Medias (Prisma, Canal+, JC Decaux, Amnesty Int.),
+          - E-commerce, intranets, extranets, portals (Danone, CFAO, Voyages-sncf.com, Eurostar),
+          - Biology / pharmacy (Bio-Rad),
+    - role: Junior software developer - multiple missions
+      time: 2005 - 2008
+      company: Smile SA / IT services company
+      details: |
+        Developer in PHP / CMS, integration, fullstack, conception and realization, end user formation.
+
 projects:
     title: Side projects
     intro: >
