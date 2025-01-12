@@ -47,7 +47,10 @@ sidebar:
       - item: Astronomy, Space conquest
         link:
 
-      - item: Nature, Technology
+      - item: Nature, Animals
+        link:
+        
+      - item: Technology
         link:
 
 career-profile:
@@ -59,7 +62,7 @@ career-profile:
 
       Actually working @ PayFit as senior engineer & architect.
 
-      Seeking a Senior position in Web software engineering / Engineering Manager, from 79k€ to 95k€.
+      Seeking a Senior position in Web software engineering / Engineering Manager, from 80k€ to 95k€.
 
 education:
     - degree: IT Engineer degree, computer science
@@ -78,7 +81,7 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Typescript / NodeJS
+    - name: Typescript / NodeJS / JS
       level: 99%
     - name: VueJS
       level: 96%
@@ -90,10 +93,10 @@ skills:
       level: 80%
     - name: AWS Infrastructure
       level: 72%
-    - name: GCP Infrastructure
-      level: 55%
     - name: ReactJS
-      level: 39%
+      level: 50%
+    - name: GCP Infrastructure
+      level: 38%
     - name: PHP
       level: 25%
     - name: Agile methodologies
@@ -106,10 +109,12 @@ skills:
       level: 88%
     - name: Squad manager
       level: 80%
+    - name: Test development driven
+      level: 75%
     - name: Jira / Github Projects
-      level: 72%
-    - name: Notion / Astro documenter
-      level: 55%
+      level: 70%
+    - name: Documenter
+      level: 50%
 
 experiences:
     - role: Senior software developer & Infrastructure architect
@@ -118,7 +123,10 @@ experiences:
       details: |
         Event driven platform: Internal projects to deliver platform tooling for engineering
         about Event Sourcing, CQRS patterns, Serverless infrastructures, Deployment. 
-          - TODO
+          - Conception and realization of event sourcing layers, workflow tooling (AWS Step Functions)
+          - High scalability infrastructure (serverless, using SNS / SQS / EventBridge / Dynamo streams)
+          - Tooling for automated deployment of infrastructures on AWS (using CDK / SAM / Terraform)
+          - Performances and costs optimizations, monitoring (using Datadog)
     - role: Senior software developer & Web architect
       time: 2022 - 2023
       company: PayFit, Paris
