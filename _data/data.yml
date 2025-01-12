@@ -31,15 +31,9 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Photography
-        link: https://photos.app.goo.gl/7YC6pucGGsd8ZYnZ7
       - item: Side projects in Domotics
         link:
-      - item: Handyman
-        link:
-      - item: Astronomy, Space conquest
-        link:
-      - item: Nature, Animals, Technology
+      - item: Astronomy, Space conquest, Photography, Handyman, Nature, Animals, Technology
         link:
 
 career-profile:
@@ -86,7 +80,7 @@ skills:
       level: 38%
     - name: PHP
       level: 25%
-    - name: Agile methodologies & Scrum master
+    - name: Agile & Scrum master
       level: 99%
     - name: Pair programmer
       level: 92%
