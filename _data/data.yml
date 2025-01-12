@@ -27,13 +27,15 @@ sidebar:
     languages:
       - idiom: French
         level: Native
+
       - idiom: English
         level: Professional
 
     interests:
       - item: Side projects in Domotics
         link:
-      - item: Astronomy, Space conquest, Photography, Handyman, Nature, Animals, Technology
+
+      - item: Astronomy, Space conquest, Photography, Handyman, Animals, Technology
         link:
 
 career-profile:
