@@ -14,6 +14,10 @@
         position: static;
         float: right;
         width: 40%;
+
+       .container-block-title {
+          color: #35776d;
+       }
     }
 
     .remove-container.container-block {
@@ -28,4 +32,12 @@
        background-color: #7ec6bb !important;
        -webkit-print-color-adjust: exact; 
     }
+
+   .experiences-section .job-title {
+      color: #35776d;
+   }
+
+   .experiences-section .time {
+      color: #35776d;
+   }
 }
