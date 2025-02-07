@@ -4,7 +4,7 @@
         size: A4;
     }
     body {
-       font-size: 12pt;
+       /*font-size: 12pt;*/
     }
 
    .main-wrapper .time {
@@ -22,5 +22,10 @@
 
     footer {
        display: none;
+    }
+
+   .skillset .level-bar-inner {
+       background-color: #7ec6bb !important;
+       -webkit-print-color-adjust: exact; 
     }
 }
