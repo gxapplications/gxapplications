@@ -55,8 +55,12 @@ education:
       time: 2002 - 2005
 
     - degree: Preparatory classes for schools
-      university: French Bac S, Maths Sup & Spé PTSI
+      university: Maths Sup & Spé PTSI
       time: 2000 - 2002
+
+    - degree: Scientific secondary school diploma
+      university: French Bac S
+      time: 2000
 
 skills:
   title: Skills &amp; Proficiency
